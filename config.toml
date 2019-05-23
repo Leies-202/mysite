@@ -6,7 +6,7 @@ theme = "hermit"
 #enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
@@ -30,6 +30,9 @@ googleAnalytics = "UA-87433732-11"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
 
   # Metadata mostly used in document's head
   # description = ""
@@ -108,6 +111,12 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 
     title = "Leies"
 
+
+  dateform        = "2006-01-02"
+  dateformShort   = "1月2日"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
   [Languages.en]
     weight = 2
 	homeSubtitle = "Ordinary human."
@@ -131,6 +140,3 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
     name = "链接(微博等......)"
     url = "link/"
     weight = 20
-
-[frontmatter]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
