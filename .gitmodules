@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/eizi2002/eizi2002.github.io.git
