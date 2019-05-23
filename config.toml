@@ -35,7 +35,7 @@ googleAnalytics = "UA-87433732-11"
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
   # Metadata mostly used in document's head
-  # description = ""
+  description = "レイエスことeizi2002のホームページ"
   images = ["avater2.png"]
   themeColor = "#494f5c"
 
