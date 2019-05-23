@@ -1,6 +1,8 @@
 ---
 title: "About"
 date: 2019-05-05T16:23:31+09:00
+images: 
+  - avater2.png
 ---
 ## このサイトについて
 Hugoで適当に作ったサイト。

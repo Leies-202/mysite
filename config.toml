@@ -41,7 +41,7 @@ lastmod = ["lastmod", ":fileModTime", ":default"]
 
   homeSubtitle = "そこら辺の人間。"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # bgImg = ""  # Homepage background-image URL
+  bgImg = "avater2.png"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
 gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
@@ -108,7 +108,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 [Languages]
   [Languages.ja]
     weight = 1
-
+  description = "レイエスことeizi2002のホームページ"
     title = "Leies"
 
 
@@ -120,6 +120,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
   [Languages.en]
     weight = 2
 	homeSubtitle = "Ordinary human."
+	description = "Leies thing eizi2002's homepage"
 
   [[Languages.en.menu.main]]
     name = "About+Profile"
@@ -130,6 +131,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
     weight = 3
 	homeSubtitle = "一个人滚来滚去"
 	title = "零江洲"
+	description = "零江洲网站"
 
   [[Languages.cn.menu.main]]
     name = "关于+轮廓"
