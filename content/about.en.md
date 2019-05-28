@@ -49,6 +49,6 @@ from:音楽とうなぎの街
 
 
 ### Want to do
-･Participation in Misskey development (issus or something)
+･Participation in Misskey development (issues or something)
 
 ･Create a better site
