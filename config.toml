@@ -36,12 +36,12 @@ lastmod = ["lastmod", ":fileModTime", ":default"]
 
   # Metadata mostly used in document's head
   description = "レイエスことeizi2002のホームページ"
-  images = ["avater2.jpg"]
+  images = ["avater2.png"]
   themeColor = "#494f5c"
 
   homeSubtitle = "そこら辺の人間。"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  bgImg = "avater2.jpg"  # Homepage background-image URL
+  bgImg = "avater2.png"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
 gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
