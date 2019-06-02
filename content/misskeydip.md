@@ -3,7 +3,7 @@ title: "Misskey-dip"
 date: 2019-05-24T17:20:41+09:00
 toc: true
 images: 
-  - avater2.png
+  - 
 ---
 
 # 総論

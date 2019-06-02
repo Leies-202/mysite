@@ -1,7 +1,7 @@
 ---
 title: "About"
 images: 
-  - avater2.png
+  - avater2.jpg
 ---
 ### NEWS
 Probably a friend magazine of friends.nico (the end of the service) appears in the Summer Comic market.Since I participated in a word there, I hope you see it.
