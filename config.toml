@@ -35,7 +35,7 @@ disqusShortname = "leies-1"
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
   # Metadata mostly used in document's head
-  description = "レイエスことeizi2002のホームページ"
+  description = "レイエスのホームページ"
   images = ["avater2.png"]
   themeColor = "#494f5c"
 
@@ -91,12 +91,12 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
     weight = 10
 
   [[Languages.ja.menu.main]]
-    name = "レイエス(SNS/Game)"
-    url = "leies/"
+    name = "Account-Link"
+    url = "link/"
     weight = 20
 
   [[Languages.ja.menu.main]]
-    name = "eizi2002(創作)"
+    name = "創作"
     url = "eizi2002/"
     weight = 20
 
@@ -108,7 +108,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 [Languages]
   [Languages.ja]
     weight = 1
-  description = "レイエスことeizi2002のホームページ"
+  description = "レイエスのホームページ"
     title = "Leies"
 
 
@@ -120,7 +120,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
   [Languages.en]
     weight = 2
 	homeSubtitle = "Ordinary human."
-	description = "Leies thing eizi2002's homepage"
+	description = "Leies's homepage"
 
   [[Languages.en.menu.main]]
     name = "About+Profile"
