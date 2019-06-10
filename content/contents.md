@@ -7,6 +7,11 @@ images:
 aliases:
     - /eizi2002/
 ---
+## 音楽(適当)
+[SoundCloud](https://soundcloud.com/leies202)
+
+[piapro](https://piapro.jp/eizi2002)
+
 ## 動画
 [niconico](https://www.nicovideo.jp/user/49834887)
 
