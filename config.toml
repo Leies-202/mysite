@@ -64,7 +64,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 
   [[params.social]]
     name = "slack"
-    url = "https://eizi2002.slack.com/"
+    url = "https://leies202.slack.com/"
 
   [[params.social]]
     name = "youtube"
