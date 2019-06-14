@@ -1,0 +1,50 @@
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a>{{ .Site.Params.footerCopyright | safeHTML }}</p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a>
+			{{- with (not (in (.Site.Language.Get "disableKinds") "RSS")) }} &#183; <a href="{{ "posts/index.xml" | absURL }}" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>{{ end }}
+		<a href="/" >ja</a>/<a href="/en" >en</a>/<a href="/cn" >cn</a>
+		</p>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script>
+$(function() {
+
+  //入力されたキーを保存する
+  var inputKey = [];
+
+  //入力されたキーと比較する隠しコマンド
+  //38 = 上
+  //40 = 下
+  //37 = 左
+  //39 = 右
+  //66 = B
+  //65 = A
+  var konamiCommand = [38,38,40,40,37,39,37,39,66,65];
+
+ //画面上のキー入力イベントリスナ
+ $(window).keyup(function(e) {
+
+  //キー入力を配列に追加
+   inputKey.push(e.keyCode);
+
+   //キー入力が保存された配列と隠しコマンドを比較
+   if (inputKey.toString().indexOf(konamiCommand) >= 0) {
+
+      //隠しコマンド成功時
+      alert("Bonb！");
+
+      //cssにbackground-imageを記述したクラスを追加
+      $(".body-wrapper").addClass('konami');
+
+      //fontBombのスクリプトをコピー
+      javascript:(function () {var s = document.createElement('script');
+        s.setAttribute('src', 'https://fontbomb.ilex.ca/js/main.js');
+        document.body.appendChild(s);}());
+
+      //キー入力を初期化
+      inputKey = [];
+   }
+ });
+});
+</script>
+	</footer>
