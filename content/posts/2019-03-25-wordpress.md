@@ -1,15 +1,15 @@
 ---
 title: 結局WordPressからは逃れられなかった話
-author: eizi2002
 type: post
 date: 2019-03-25T09:42:18+00:00
 excerpt: |
   |
     要するにWordPressへ舞い戻った言い訳
-url: /2019/03/25/wordpress/
 categories:
   - 日記
 
+aliases:
+    - /2019/03/wordpress.html
 ---
 前提:いろいろ言っていますが、当メインサイトはWordPressに戻すことはないでしょう(普通に面倒くさい)
 

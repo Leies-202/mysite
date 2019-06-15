@@ -1,16 +1,17 @@
 ---
 title: friends.nico終了に基づく諸々の件
-author: eizi2002
 type: post
 date: 2019-03-28T22:50:57+00:00
 excerpt: |
   |
     二コフレ引越し案内
-url: /2019/03/29/friendsnico/
 categories:
   - お知らせ
   - 重要
 
+
+aliases:
+    - /2019/03/friendsnico.html
 ---
 ※前置き長いので引越し先の本題だけみたい人は<a href="#hon">ここ</a>クリック
 

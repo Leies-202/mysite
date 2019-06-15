@@ -11,7 +11,8 @@
 {{ define "header" }}
 {{ partial "header.html" . }}
 {{ end }}
-
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<link href="//eizi2002.sakura.ne.jp/css/lightbox.css" type="text/css" rel="stylesheet" media="all">
 {{ define "main" }}
 	{{- if (or .Params.images .Params.featuredImg) }}
 	<div class="bg-img"></div>
