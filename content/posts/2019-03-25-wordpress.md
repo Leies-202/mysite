@@ -8,8 +8,8 @@ excerpt: |
 categories:
   - 日記
 
-aliases:
-    - /2019/03/wordpress.html
+permalinks:
+  posts: /2019/03/wordpress.html
 ---
 前提:いろいろ言っていますが、当メインサイトはWordPressに戻すことはないでしょう(普通に面倒くさい)
 
