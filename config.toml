@@ -2,6 +2,7 @@ baseurl = "https://eizi2002.github.io/"
 title = "Leies"
 theme = "hugo-theme-nix"
 languageCode = "ja-jp"
+defaultContentLanguage = "ja"
 disqusShortname = "leies-1"
 
 [menu]
@@ -17,7 +18,7 @@ disqusShortname = "leies-1"
 
   [[menu.header]]
     name = "Misskey-orz"
-    url = "misskey/"
+    url = "/misskey"
     weight = 20
 
 [params]
