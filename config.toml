@@ -1,7 +1,7 @@
 baseurl = "https://eizi2002.github.io/"
 title = "Leies"
 theme = "hugo-theme-nix"
-languageCode = "en-us"
+languageCode = "ja-jp"
 disqusShortname = "leies-1"
 
 [menu]
