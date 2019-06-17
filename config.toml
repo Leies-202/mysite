@@ -6,22 +6,92 @@ defaultContentLanguage = "ja"
 disqusShortname = "leies-1"
 
 [menu]
-  [[menu.header]]
+  [[Languages.ja.menu.header]]
     name = "about"
     weight = 1
     url = "/about"
 
-  [[menu.header]]
-    name = "blog"
+  [[Languages.ja.menu.header]]
+    name = "Secondsite"
     weight = 2
     url = "https://eizi2002.skr.jp/"
 
-  [[menu.header]]
+  [[Languages.ja.menu.header]]
+    name = "blog"
+    weight = 3
+    url = "https://eizi2002.skr.jp/posts/"
+
+  [[Languages.ja.menu.header]]
     name = "Misskey-orz"
     url = "/misskey"
     weight = 20
 
-[params]
+  [[Languages.ja.menu.header]]
+    name = "ja"
+    url = "/"
+    weight = 30
+
+  [[Languages.ja.menu.header]]
+    name = "en"
+    url = "/en"
+    weight = 40
+
+  [[Languages.ja.menu.header]]
+    name = "cn"
+    url = "/cn"
+    weight = 50
+
+  [[Languages.en.menu.header]]
+    name = "about"
+    weight = 1
+    url = "/en/about"
+
+  [[Languages.en.menu.header]]
+    name = "SecondSite"
+    weight = 2
+    url = "https://eizi2002.skr.jp/en/"
+
+  [[Languages.en.menu.header]]
+    name = "ja"
+    url = "/"
+    weight = 30
+
+  [[Languages.en.menu.header]]
+    name = "en"
+    url = "/en"
+    weight = 40
+
+  [[Languages.en.menu.header]]
+    name = "cn"
+    url = "/cn"
+    weight = 50
+
+  [[Languages.cn.menu.header]]
+    name = "关于"
+    weight = 1
+    url = "/cn/about"
+
+  [[Languages.cn.menu.header]]
+    name = "第二个站点"
+    weight = 2
+    url = "https://eizi2002.skr.jp/cn/"
+
+  [[Languages.cn.menu.header]]
+    name = "ja"
+    url = "/"
+    weight = 30
+
+  [[Languages.cn.menu.header]]
+    name = "en"
+    url = "/en"
+    weight = 40
+
+  [[Languages.cn.menu.header]]
+    name = "cn"
+    url = "/cn"
+    weight = 50
+
+[Languages.ja.params]
   GithubID = "eizi2002"
   TwitterID = "Leies_202"
   FacebookID = "eizi2002c"
@@ -35,3 +105,24 @@ disqusShortname = "leies-1"
   Favicon = "/favicon.ico"
   SlackURL = "https://leies202.slack.com/"
 
+[Languages.en.params]
+  GithubID = "eizi2002"
+  TwitterID = "Leies_202"
+  About = "Ordinary human."
+  Name = "Leies"
+  HeaderUsername = "Leies_202"
+  HeaderHostname = "orz"
+  Email = "lei@eizi2002.skr.jp"
+  ProfilePicture = "/profile.jpg"
+  Favicon = "/favicon.ico"
+
+[Languages.cn.params]
+  GithubID = "eizi2002"
+  TwitterID = "Leies_202"
+  About = "一个人滚来滚去｡有关详细信息，请参阅第二个站点。"
+  Name = "零江洲"
+  HeaderUsername = "Leies_202"
+  HeaderHostname = "orz"
+  Email = "lei@eizi2002.skr.jp"
+  ProfilePicture = "/profile.jpg"
+  Favicon = "/favicon.ico"
