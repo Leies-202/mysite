@@ -29,6 +29,6 @@ version:[めいめいリポジトリ(=V10派生)使用](https://github.com/mei23
 
 ---
 
-連絡先:misskey@eizi2002.skr.jp
+連絡先:misskey@lei202.com
 
 [いあBotについてはこちら](/ia)

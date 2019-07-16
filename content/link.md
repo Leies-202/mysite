@@ -19,6 +19,6 @@ images:
 [Twitter](https://twitter.com/Leies_202)
 
 ## eizi2002
-[Blog](https://eizi2002.skr.jp/)
+[Blog](https://lei202.com/)
 
 [Twitter(いずれ@Leies_202へ統合したい)](https://twitter.com/eizi2002/)

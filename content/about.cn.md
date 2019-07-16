@@ -8,4 +8,4 @@ description: 零江洲关于
 
 Hugo正确创建的网站。
 
-对我个人而言→[https://eizi2002.skr.jp/](https://eizi2002.skr.jp/cn/about/)
+对我个人而言→[https://lei202.com/](https://lei202.com/cn/about/)

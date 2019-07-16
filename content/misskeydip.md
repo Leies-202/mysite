@@ -32,4 +32,5 @@ admin:[レイエス(eizi2002)](https://eizi2002.dip.jp/@eizi2002)
 version:[V11(本家)使用](https://github.com/syuilo/misskey/)
 ---
 
-連絡先:misskey@eizi2002.skr.jp
+連絡先:misskey@lei202.com
+連絡先:misskey@lei202.com

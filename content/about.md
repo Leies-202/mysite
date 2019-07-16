@@ -12,7 +12,7 @@ Hugoで適当に作ったサイト。
 
 元は全部HTMLで作ってたが、GitHubのプロフィールを芝生にしたいという野心が芽生えた結果の産物。
 
-もっと詳しいプロフィールは→[https://eizi2002.skr.jp](https://eizi2002.skr.jp/about/)
+もっと詳しいプロフィールは→[https://lei202.com](https://lei202.com/about/)
 ___
 
 ### 今のところやってる

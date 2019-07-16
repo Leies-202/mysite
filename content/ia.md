@@ -23,6 +23,6 @@ URL:https://eizi2002.orz.hm/@ia
 
 ---
 
-連絡先:misskey@eizi2002.skr.jp
+連絡先:misskey@lei202.com
 
 [Misskey-orzついてはこちら](https://eizi2002.github.io/misskey/)
